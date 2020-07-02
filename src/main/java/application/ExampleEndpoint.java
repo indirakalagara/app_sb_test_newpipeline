@@ -8,7 +8,7 @@ public class ExampleEndpoint {
 
     @RequestMapping("/starter/hello")
     public String example() {
-        return "Hello World";
+        return "Hello World...";
     }
 }
 
